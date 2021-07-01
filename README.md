@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hi, I'm Nathaniel. 
+  
+[![Nathaniel's GitHub stats](https://github-readme-stats-npmitche.vercel.app/api?username=npmitche&count_private=true)](https://github.com/npmitche/github-readme-stats)
+
+
 
 <!--
+[![Top Langs](https://github-readme-stats-npmitche.vercel.app/api/top-langs/?username=npmitche&layout=compact)](https://github.com/npmitche/github-readme-stats)
+
 **npmitche/npmitche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
