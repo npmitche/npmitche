@@ -1,6 +1,6 @@
 ### Hi, I'm Nathaniel. 
   
-[![Nathaniel's GitHub stats](https://github-readme-stats-npmitche.vercel.app/api?username=npmitche&count_private=true)](https://github.com/npmitche/github-readme-stats)
+[![Nathaniel's GitHub stats](https://github-readme-stats-npmitche.vercel.app/api?username=npmitche&count_private=true&theme=dark)](https://github.com/npmitche/github-readme-stats)
 
 
 
